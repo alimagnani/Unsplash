@@ -20,6 +20,7 @@
 	<!-- TemplateBeginEditable name="master-content" -->
 			<p>[Placeholder content.]</p>
 	<!-- TemplateEndEditable -->
+	<p>[Footer.]</p>
 	</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

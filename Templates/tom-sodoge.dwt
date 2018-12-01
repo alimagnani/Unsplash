@@ -24,6 +24,7 @@
     <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
     <!-- TemplateBeginEditable name="breadcrumb-trail" -->
     <li class="breadcrumb-item active">Tom Sodoge</li>
+	<li class="breadcrumb-item active">Example Photo</li>
     <!-- TemplateEndEditable -->
   </ol>
 </nav>

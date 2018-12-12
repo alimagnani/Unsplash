@@ -17,6 +17,7 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
 <link href="../styles/styles.css" rel="stylesheet" type="text/css">
 <!-- InstanceParam name="home-page-intro" type="boolean" value="false" -->
+<!-- InstanceParam name="navigation" type="boolean" value="true" -->
 </head>
   <body>
 	<div class="unsplash-header">
@@ -25,7 +26,7 @@
 		</div>
 	</div>
 
-	<div class="container">
+<div class="container">
 	<!-- InstanceBeginEditable name="master-content" -->
 <nav class="unsplash-navigation">
   <ol class="breadcrumb">

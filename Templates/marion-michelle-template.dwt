@@ -27,7 +27,7 @@
 
 	<div class="container">
 	<!-- InstanceBeginEditable name="master-content" -->
-<nav>
+<nav class="unsplash-navigation">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
     <!-- TemplateBeginEditable name="breadcrumb-trail" -->
@@ -44,9 +44,9 @@
           <p class="card-text">Photographer + Copywriter.</p>
         </div>
         <ul class="list-group">
-          <li class="list-group-item"><a href="http://marionmichele.com" target="_blank">Website</a></li>
-          <li class="list-group-item"><a href="http://instagram.com/marionmichele" target="_blank">Instagram</a></li>
-          <li class="list-group-item"><a href="https://twitter.com/marion_michele" target="_blank">Twitter</a></li>
+          <li class="list-group-item"><a href="http://marionmichele.com" target="_blank"><i class="fas fa-globe"></i>Website</a></li>
+          <li class="list-group-item"><a href="http://instagram.com/marionmichele" target="_blank"><i class="fab fa-instagram"></i>Instagram</a></li>
+          <li class="list-group-item"><a href="https://twitter.com/marion_michele" target="_blank"><i class="fab fa-twitter-square"></i>Twitter</a></li>
         </ul>
       </div>
     </div>
